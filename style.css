@@ -1,0 +1,16 @@
+body {
+    width: 50%;
+    margin: auto;
+    font-family: Arial;
+}
+img {
+    width: 100%;    
+}
+p {
+    font-size: 18px;
+}
+h1 {
+    color: red;
+    font-size: 28px;
+    text-align: center;
+}
